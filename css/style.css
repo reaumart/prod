@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:#3D3D3D;
+    background-color: #E1EDF2;
+}
+
+h2{
+    border-bottom: black 2px solid;
+}
+
+figure{
+    text-align: center;
+    background-color: whitesmoke;
+    color: lightgrey;
+}
